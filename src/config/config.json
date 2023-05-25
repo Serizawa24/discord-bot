@@ -1,0 +1,30 @@
+{
+    "TOKEN": "",
+    "CLIENTID": "",
+    "embedColor": "ffa954",
+    "language": "en",
+    "message": "test !",
+    "defaultVolume": 50,
+
+
+"shardManager":{
+ "shardStatus": false 
+},
+
+   "OWNER": [
+        "1038127320571052193"
+    ],
+    "NODES": [
+        {
+            "name": "NODE-1",
+            "host": "ssl.freelavalink.ga",
+            "port": 443,
+            "password": "www.freelavalink.ga",
+            "secure": true
+        }
+    ],
+    "SPOTIFY": {
+        "clientID": "",
+        "clientSecret": ""
+    }
+}
